@@ -3,14 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/fubode/app1/Sistema-vacaciones-fubode/src/java/Modelo/Usuario.java</file>
-            <file>file:/D:/fubode/app1/Sistema-vacaciones-fubode/src/java/Helper/Date.java</file>
-            <file>file:/D:/fubode/app1/Sistema-vacaciones-fubode/web/recursos/css/estilos.css</file>
-            <file>file:/D:/fubode/app1/Sistema-vacaciones-fubode/web/vistas/rrhh/reportesFuncionario.jsp</file>
-            <file>file:/D:/fubode/app1/Sistema-vacaciones-fubode/web/js/administrador/reporteFuncioario.js</file>
-            <file>file:/D:/fubode/app1/Sistema-vacaciones-fubode/web/vistas/rrhh/funcionarios.jsp</file>
-            <file>file:/D:/fubode/app1/Sistema-vacaciones-fubode/src/java/Controlador/srvAdministrador.java</file>
-            <file>file:/D:/fubode/app1/Sistema-vacaciones-fubode/src/java/Modelo/DAOAdministrador.java</file>
+            <file>file:/D:/FUBODE/produccion/vacaciones/web/WEB-INF/web.xml</file>
         </group>
     </open-files>
 </project-private>
