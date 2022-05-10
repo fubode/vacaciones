@@ -14,7 +14,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 
 public class Conexion {
-
+    
     private final String DRIVEMANAGER = "org.postgresql.Drive";
     private final String URL = "jdbc:postgresql://localhost:5432/vacaciones";
     private final String USER = "postgres";
@@ -31,20 +31,12 @@ public class Conexion {
     //* IRIS */ protected int codigo_say = 3768;
 
     public Conexion() {
-        DriverManagerDataSource dataSource = new DriverManagerDataSource();
-        dataSource.setDriverClassName("org.postgresql.Driver");
-        dataSource.setUrl("jdbc:postgresql://localhost:5432/vacaciones");
-        dataSource.setUsername("postgres");
-        dataSource.setPassword("root");
+        DriverManagerDataSource dataSource = new DriveManager();           
         this.jdbcTemplate = new JdbcTemplate(dataSource);
     }
 
     public Conexion(Usuario usuario) {
-        DriverManagerDataSource dataSource = new DriverManagerDataSource();
-        dataSource.setDriverClassName("org.postgresql.Driver");
-        dataSource.setUrl("jdbc:postgresql://localhost:5432/vacaciones");
-        dataSource.setUsername("postgres");
-        dataSource.setPassword("root");
+        DriverManagerDataSource dataSource = new DriveManager();   
         this.jdbcTemplate = new JdbcTemplate(dataSource);
         this.codigo_say = usuario.getCodigo_say();
         this.usuario = usuario;
