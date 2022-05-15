@@ -108,7 +108,7 @@
                     <input type="radio" id="COMPENSACION" name="tipo" value="COMPENSACION">
                     <label>COMPENSACION</label><br>
                     <input type="radio" id="ASUELTO" name="tipo" value="ASUELTO">
-                    <label>ASUELTO</label><br>
+                    <label>ASUETO</label><br>
                 </div>
             </div>        
         </div>   
