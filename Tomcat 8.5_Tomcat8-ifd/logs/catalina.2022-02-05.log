@@ -1,0 +1,98 @@
+05-Feb-2022 12:31:44.459 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/8.5.75
+05-Feb-2022 12:31:44.466 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Jan 17 2022 22:07:47 UTC
+05-Feb-2022 12:31:44.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     8.5.75.0
+05-Feb-2022 12:31:44.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+05-Feb-2022 12:31:44.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+05-Feb-2022 12:31:44.469 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+05-Feb-2022 12:31:44.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk1.8.0_111\jre
+05-Feb-2022 12:31:44.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       1.8.0_111-b14
+05-Feb-2022 12:31:44.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+05-Feb-2022 12:31:44.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd
+05-Feb-2022 12:31:44.470 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd
+05-Feb-2022 12:31:44.471 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\conf\logging.properties
+05-Feb-2022 12:31:44.471 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Feb-2022 12:31:44.472 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-LME18D6
+05-Feb-2022 12:31:44.472 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+05-Feb-2022 12:31:44.472 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Feb-2022 12:31:44.472 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+05-Feb-2022 12:31:44.473 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd
+05-Feb-2022 12:31:44.473 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd
+05-Feb-2022 12:31:44.473 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\temp
+05-Feb-2022 12:31:44.473 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Program Files\Java\jdk1.8.0_111\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\wamp64\bin\php\php5.6.40;C:\ProgramData\ComposerSetup\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Users\home\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\home\AppData\Local\Programs\Python\Python39\;C:\Users\home\AppData\Local\Microsoft\WindowsApps;;C:\Users\home\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;;C:\Users\home\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\home\AppData\Roaming\npm;.]
+05-Feb-2022 12:31:44.973 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8086"]
+
+05-Feb-2022 12:31:46.631 INFORMACIÓN [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Feb-2022 12:31:46.676 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8084"]
+
+05-Feb-2022 12:31:46.679 INFORMACIÓN [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Feb-2022 12:31:46.680 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3532 ms
+05-Feb-2022 12:31:46.891 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+05-Feb-2022 12:31:46.892 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.75]
+05-Feb-2022 12:31:46.939 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\conf\Catalina\localhost\ROOT.xml]
+05-Feb-2022 12:31:53.339 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+05-Feb-2022 12:31:53.798 INFORMACIÓN [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+05-Feb-2022 12:31:54.398 INFORMACIÓN [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Sat Feb 05 12:31:54 BOT 2022]; root of context hierarchy
+05-Feb-2022 12:31:54.711 INFORMACIÓN [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+05-Feb-2022 12:31:55.189 INFORMACIÓN [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1391 ms
+05-Feb-2022 12:31:55.376 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+05-Feb-2022 12:31:55.445 INFORMACIÓN [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Sat Feb 05 12:31:55 BOT 2022]; parent: Root WebApplicationContext
+05-Feb-2022 12:31:55.504 INFORMACIÓN [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+05-Feb-2022 12:31:55.976 INFORMACIÓN [localhost-startStop-1] org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName Loaded JDBC driver: org.postgresql.Driver
+05-Feb-2022 12:31:55.982 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/controlador] onto handler 'controlador'
+05-Feb-2022 12:31:55.982 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/controlador/*] onto handler 'controlador'
+05-Feb-2022 12:31:56.457 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/eliminar.htm] onto handler 'controlador'
+05-Feb-2022 12:31:56.458 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/editar.htm] onto handler 'controlador'
+05-Feb-2022 12:31:56.459 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index.htm] onto handler 'controlador'
+05-Feb-2022 12:31:56.459 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/agregar.htm] onto handler 'controlador'
+05-Feb-2022 12:31:56.893 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 1516 ms
+05-Feb-2022 12:31:57.033 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\conf\Catalina\localhost\ROOT.xml] has finished in [10.092] ms
+05-Feb-2022 12:31:57.034 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\conf\Catalina\localhost\vacaciones.xml]
+05-Feb-2022 12:32:02.950 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+05-Feb-2022 12:32:03.171 INFORMACIÓN [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+05-Feb-2022 12:32:03.713 INFORMACIÓN [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Sat Feb 05 12:32:03 BOT 2022]; root of context hierarchy
+05-Feb-2022 12:32:03.973 INFORMACIÓN [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+05-Feb-2022 12:32:04.306 INFORMACIÓN [localhost-startStop-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1134 ms
+05-Feb-2022 12:32:04.317 ADVERTENCIA [localhost-startStop-1] org.apache.catalina.session.StandardManager.doLoad Imposible borrar [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\work\Catalina\localhost\vacaciones\SESSIONS.ser] luego de leer las sessiones persistentes. La prensencia continua de este archivo causará que los intentos futuros de sesiones persistentes fallen.
+05-Feb-2022 12:32:04.319 GRAVE [localhost-startStop-1] org.apache.catalina.session.StandardManager.startInternal Excepción cargando sesiones desde almacenamiento persistente
+	java.io.StreamCorruptedException: invalid stream header: 00000000
+		at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:808)
+		at java.io.ObjectInputStream.<init>(ObjectInputStream.java:301)
+		at org.apache.catalina.util.CustomObjectInputStream.<init>(CustomObjectInputStream.java:95)
+		at org.apache.catalina.session.StandardManager.doLoad(StandardManager.java:209)
+		at org.apache.catalina.session.StandardManager.load(StandardManager.java:162)
+		at org.apache.catalina.session.StandardManager.startInternal(StandardManager.java:356)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5249)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1881)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+		at java.lang.Thread.run(Thread.java:745)
+05-Feb-2022 12:32:04.463 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+05-Feb-2022 12:32:04.481 INFORMACIÓN [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Sat Feb 05 12:32:04 BOT 2022]; parent: Root WebApplicationContext
+05-Feb-2022 12:32:04.484 INFORMACIÓN [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+05-Feb-2022 12:32:04.938 INFORMACIÓN [localhost-startStop-1] org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName Loaded JDBC driver: org.postgresql.Driver
+05-Feb-2022 12:32:04.947 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/controlador] onto handler 'controlador'
+05-Feb-2022 12:32:04.948 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/controlador/*] onto handler 'controlador'
+05-Feb-2022 12:32:05.268 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/nuevas.htm] onto handler 'controlador'
+05-Feb-2022 12:32:05.269 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/pendientes.htm] onto handler 'controlador'
+05-Feb-2022 12:32:05.269 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index.htm] onto handler 'controlador'
+05-Feb-2022 12:32:05.650 INFORMACIÓN [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 1186 ms
+05-Feb-2022 12:32:05.668 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\conf\Catalina\localhost\vacaciones.xml] has finished in [8.634] ms
+05-Feb-2022 12:32:05.672 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\webapps\docs] de la aplicación web
+05-Feb-2022 12:32:05.819 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\webapps\docs] has finished in [147] ms
+05-Feb-2022 12:32:05.819 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\webapps\manager] de la aplicación web
+05-Feb-2022 12:32:06.014 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\webapps\manager] has finished in [194] ms
+05-Feb-2022 12:32:06.023 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8086"]
+05-Feb-2022 12:32:06.093 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8084"]
+05-Feb-2022 12:32:06.136 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in 19455 ms
+05-Feb-2022 12:32:35.191 INFORMACIÓN [http-nio-8086-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\conf\Catalina\localhost\Sistema.xml]
+05-Feb-2022 12:32:35.948 INFORMACIÓN [http-nio-8086-exec-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+05-Feb-2022 12:32:36.044 INFORMACIÓN [http-nio-8086-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Program Files\Apache Software Foundation\Tomcat 8.5_Tomcat8-ifd\conf\Catalina\localhost\Sistema.xml] has finished in [853] ms
+05-Feb-2022 12:32:36.095 INFORMACIÓN [http-nio-8086-exec-1] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Sistema]] after start() had already been called. The second call will be ignored.

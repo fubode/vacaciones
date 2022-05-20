@@ -1,0 +1,7 @@
+[2022-01-31 14:25:08] [info]  [ 9056] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-01-31 14:25:08] [info]  [ 9056] Installing service 'Tomcat8-ifd' name 'Apache Tomcat 8.5 Tomcat8-ifd'.
+[2022-01-31 14:25:49] [error] [ 9056] Acceso denegado.
+[2022-01-31 14:25:49] [error] [ 9056] Failed installing service 'Tomcat8-ifd'.
+[2022-01-31 14:25:49] [error] [ 9056] Acceso denegado.
+[2022-01-31 14:25:49] [error] [ 9056] Apache Commons Daemon procrun failed with exit value: 8 (failed to install service).
+[2022-01-31 14:25:50] [error] [ 9056] Acceso denegado.
