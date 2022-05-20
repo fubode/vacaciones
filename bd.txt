@@ -1,9 +1,3 @@
-CREATE DATABASE vacaciones
-    WITH 
-    OWNER = postgres
-    ENCODING = 'UTF8'
-    CONNECTION LIMIT = -1;
-
 CREATE TABLE public.cargo (
     codigo_cargo integer NOT NULL,
     nombre_cargo VARCHAR (48) NOT NULL
@@ -130,9 +124,6 @@ ALTER TABLE ONLY public.solicitud_vacaciones
 ALTER TABLE ONLY public.cuenta
     ADD CONSTRAINT fk_cuenta_funcionario FOREIGN KEY (codigo_funcionario) REFERENCES public.funcionario(codigo_sai);
 
-ALTER TABLE ONLY public.fechas
-    ADD CONSTRAINT fk_entidad_fecha FOREIGN KEY (entidad) REFERENCES public.entidad(codigo_entidad);
-
 ALTER TABLE ONLY public.funcionario
     ADD CONSTRAINT fk_entidad_funcionario FOREIGN KEY (entidad) REFERENCES public.entidad(codigo_entidad);
 
@@ -157,7 +148,7 @@ INSERT INTO public.entidad(
 	VALUES (99, 'OFICINA NACIONAL', 'NACIONAL', 0);
 INSERT INTO public.funcionario(
 	codigo_sai, apellido, nombre, fecha_ingreso, ci, correo, fecha_salida, supervisor, entidad, cargo,expedido)
-	VALUES (3000, 'TORREZ ONTIVEROS', 'LUIS FERNANDO', '1999-1-1', 3068471, 'torrez.ontiveros.luis@gmail.com', '1750-1-1', 0, 99, 100,'OR');
+	VALUES (3000, 'TORREZ ONTIVEROS', 'LUIS FERNANDO', '1999-1-1', 3068471, 'torrez.ontiveros.luis@fubode.org', '1750-1-1', 0, 99, 100,'OR');
 	
 INSERT INTO public.cuenta(
 	usuario, pass, codigo_funcionario)
